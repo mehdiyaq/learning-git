@@ -1,2 +1,2 @@
 # learning-git
-# just a test
+JUST A TEST REPOSITORY
